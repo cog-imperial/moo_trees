@@ -4,11 +4,13 @@ This repository contains scripts for the multi-objective extension of ENTMOOT fe
 Please cite this work as:
 ```
 @article{thebelt2021mootrees,
-  title   =   {{Multi-objective Constrained Optimization for Energy Applications via Tree Ensembles}},
-  author  =   {Thebelt, Alexander and Tsay, Calvin and Lee, Robert M. and Walz, David and Tranter, Tom and Misener, Ruth},
-  journal =   {Applied Energy},
-  volume  =   {},
-  year    =   {2021}
+  title={{Multi-objective constrained optimization for energy applications via tree ensembles}},
+  author={Thebelt, Alexander and Tsay, Calvin and Lee, Robert M and Sudermann-Merx, Nathan and Walz, David and Tranter, Tom and Misener, Ruth},
+  journal={Applied Energy},
+  volume={306},
+  pages={118061},
+  year={2022},
+  publisher={Elsevier}
 }
 ```
 
